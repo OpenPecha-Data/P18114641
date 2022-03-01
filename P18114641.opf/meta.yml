@@ -1,0 +1,30 @@
+id: P18114641
+initial_creation_type: input
+source_metadata:
+  title: Sitātapatrā Series
+  language: it
+  description: 'A series of texts related to the deity Sitātapatrā (gdugs dkar), “White
+    Parasol”, who is said to have emerged from the crown (uṣṇīṣa) of the Buddha:'
+  volume:
+    b0696c92a6174c24af05ba0ddac27e9d:
+      title: Introduction to Sitātapatrā
+      parent: Introduction
+    f7ada84824a54fa386d70f7894e04abd:
+      title: Averting Obstacles through Sitātapatrā
+      parent: Averting Obstacles
+    272ed1150da04ea38b457e166d6dc124:
+      title: The Noble Dhāraṇī of The Supreme Accomplishment of Sitātapatrā Born from
+        the Tathāgata’s Uṣṇīṣa, the Great Invincible Dispeller
+      parent: Dhāraṇī
+    979104c1fa204317b222b6f4860f3402:
+      title: 'The Blazing Tower: A Daily Practice of Uṣṇīṣa-Sitātapatrā'
+      parent: Sādhanas
+    ebf492ad44554c429e6e4f81850b3219:
+      title: 'The Swift Steed of Garuḍa, King of Birds: An Instruction for Travelling
+        to Sukhāvatī: A Visualization and Recitation of Uṣnīṣa-Sitātapatrā'
+      parent: Sādhanas
+    7873e0284fe54ad89f586247111c0774:
+      title: A Sādhana of Sitātapatrā
+      parent: Sādhanas
+created_at: '2022-03-01T05:50:02.051624'
+last_modified_at: '2022-03-01T05:50:02.051626'
